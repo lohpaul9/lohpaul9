@@ -1,1 +1,1 @@
-Hi, I'm Paul - a freshman @ UPenn, studying Computer Science and Psychology.
+Hi, I'm Paul - a freshman @ UPenn, studying Computer Science.
