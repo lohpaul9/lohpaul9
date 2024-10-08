@@ -1,5 +1,5 @@
-Hi, I'm  a Junior @ UPenn studying Computer Science.
+Nice to meet you! I'm  a Senior @ UPenn studying Computer Science & Robotics. 
 
-I'm generally interested in building things! I occassionally work on building apps with friends and in my club @PennSpark. I'm also interested in solving bigger problems with scale and cloud computing. 
+I'm interested in solving problems at scale. I have been involved in research at the distributed systems lab at UPenn building microservice overload control frameworks, and ML for systems and databases. Previously interned at Databricks on ETL systems and data skipping, and at Shoreline / Nvidia on semantic search. 
 
-Nice to meet you!
+I enjoy pushing the boundaries of systems, whether they be general compute or ML systems. Would love to connect!
